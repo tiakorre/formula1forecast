@@ -1,6 +1,6 @@
 # F1 Team Lap Time Prediction Project Midterm Report 
 
-https://www.youtube.com/watch?v=Jx9QwZT7m8U
+https://www.youtube.com/watch?v=w93o8CwHHyQ
 
 ## Project Description
 
