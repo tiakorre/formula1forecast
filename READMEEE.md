@@ -1,7 +1,10 @@
 
 # Formula 1 Lap Time Predictor
 
-## 🚀 Quick Start
+## Quick Start
+
+###Youtube Video
+https://youtu.be/BNk5uKYLSh8?si=XckYF_pFFUd5K0iY
 
 ### Prerequisites
 - Python 3.8+
