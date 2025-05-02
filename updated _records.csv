@@ -1,0 +1,2106 @@
+team,avg_lap_time,latitude,longitude,circuitType,precipitation,windspeed,temp,race_condition
+Mercedes,111.0368125,-37.8497,144.968,Street circuit,0.02,6.5,63.5,Damp
+Williams,111.787,-37.8497,144.968,Street circuit,0.02,6.5,63.5,Damp
+Ferrari,112.35093749999999,-37.8497,144.968,Street circuit,0.02,6.5,63.5,Damp
+Toro Rosso,113.1101875,-37.8497,144.968,Street circuit,0.02,6.5,63.5,Damp
+Sauber,114.34493333333333,-37.8497,144.968,Street circuit,0.02,6.5,63.5,Damp
+Red Bull,112.74299999999998,-37.8497,144.968,Street circuit,0.02,6.5,63.5,Damp
+Force India,116.69050000000003,-37.8497,144.968,Street circuit,0.02,6.5,63.5,Damp
+McLaren,116.83371428571431,-37.8497,144.968,Street circuit,0.02,6.5,63.5,Damp
+Mercedes,126.43154545454544,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Ferrari,129.50445454545454,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Red Bull,126.92554545454549,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Williams,125.87809999999999,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Force India,127.1965,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Sauber,123.93662499999999,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Toro Rosso,127.01918181818179,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Lotus F1,131.71936363636362,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+McLaren,129.4725,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Manor Marussia,126.444,2.76083,101.738,Race circuit,0.039,5.6,83.7,Wet
+Mercedes,104.7373,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Ferrari,105.44799999999998,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Williams,106.0923,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Lotus F1,106.7827,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Sauber,107.24070000000002,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Toro Rosso,109.1867,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Force India,108.36889999999998,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Red Bull,109.17,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+McLaren,109.43229999999998,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Manor Marussia,111.2933,31.3389,121.22,Race circuit,0.0,7.4,57.6,Dry
+Mercedes,100.1955,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Ferrari,100.55575,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Williams,102.35299999999998,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Red Bull,102.94559999999998,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Lotus F1,102.9896,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Force India,102.68379999999999,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Sauber,102.84939999999999,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Toro Rosso,103.39750000000001,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+McLaren,103.3844,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Manor Marussia,106.2252,26.0325,50.5106,Race circuit,0.0,19.2,76.3,Dry
+Mercedes,93.1606,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Ferrari,93.97740000000002,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Williams,94.8017,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Toro Rosso,96.2311,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Lotus F1,96.53099999999999,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Red Bull,96.9817,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+McLaren,97.5901,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Sauber,97.5282,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Force India,97.7781,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Manor Marussia,99.50240000000001,41.57,2.26111,Race circuit,0.0,5.1,71.1,Dry
+Mercedes,81.92410000000001,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Ferrari,83.0934,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Red Bull,83.11370000000001,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Force India,89.1501,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Lotus F1,85.7224,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Toro Rosso,86.0412,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+McLaren,85.55250000000001,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Sauber,86.2339,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Williams,95.11670000000001,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Manor Marussia,88.24949999999998,43.7347,7.42056,Street circuit,0.0,3.8,59.5,Dry
+Mercedes,80.60900000000001,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Ferrari,82.45410000000001,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Williams,82.6081,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Lotus F1,82.11359999999999,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Force India,82.77289999999999,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Red Bull,82.9537,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+McLaren,85.862,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Sauber,84.23599999999999,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Toro Rosso,84.53380000000001,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Manor Marussia,86.1863,45.5,-73.5228,Street circuit,0.0,4.0,59.2,Dry
+Mercedes,116.31708333333331,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Ferrari,116.47716666666668,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Williams,116.63425,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Force India,116.76916666666669,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Toro Rosso,116.74058333333333,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Sauber,118.55881818181818,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Lotus F1,116.91966666666669,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Red Bull,118.63445454545455,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Manor Marussia,116.03371428571428,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+McLaren,121.0062,47.2197,14.7647,Race circuit,0.217,3.1,52.7,Wet
+Williams,116.88364285714285,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+Mercedes,117.14664285714287,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+Force India,119.31499999999998,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+Ferrari,119.4080769230769,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+Red Bull,119.65176923076925,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+McLaren,122.43316666666665,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+Toro Rosso,127.78877777777777,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+Sauber,121.70833333333333,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+Manor Marussia,122.87075000000003,52.0786,-1.01694,Race circuit,0.65,10.5,68.7,Wet
+Ferrari,89.53129999999999,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Mercedes,91.5376,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Williams,92.0949,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Red Bull,92.02279999999999,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Force India,92.18360000000001,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Toro Rosso,93.2514,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+McLaren,93.5901,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Lotus F1,94.17679999999999,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Manor Marussia,96.04369999999999,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Sauber,94.5436,47.5789,19.2486,Race circuit,0.02,8.3,80.8,Damp
+Mercedes,116.69058333333332,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Force India,116.9345,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Red Bull,117.76441666666666,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Williams,118.42563636363639,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Ferrari,118.432,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Lotus F1,130.95137499999998,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Sauber,120.4519,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Toro Rosso,143.84390000000002,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+McLaren,121.52199999999998,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Manor Marussia,122.8243,50.4372,5.97139,Race circuit,0.0,9.2,66.9,Dry
+Mercedes,89.101,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Ferrari,90.70027272727272,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Williams,89.6015,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Force India,90.6675,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Lotus F1,117.499,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Sauber,93.99454545454546,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+McLaren,93.23659999999998,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Toro Rosso,94.5201,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Red Bull,93.1514,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Manor Marussia,94.6559,45.6156,9.28111,Race circuit,0.335,6.3,67.6,Wet
+Ferrari,112.8555,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Red Bull,113.5925,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Mercedes,114.6482,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Williams,115.30839999999998,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Force India,115.7773,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+McLaren,116.7432,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Toro Rosso,129.24950000000004,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Lotus F1,117.0069,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Sauber,116.96990000000001,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Manor Marussia,120.28449999999998,1.2914,103.864,Street circuit,0.157,6.0,86.4,Wet
+Mercedes,100.28099999999999,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Ferrari,100.80930000000001,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Williams,113.96889999999999,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Lotus F1,101.96670000000002,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Force India,105.0223,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+McLaren,103.94219999999999,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Toro Rosso,103.583,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Sauber,103.7322,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Manor Marussia,106.165,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Red Bull,110.614,34.8431,136.541,Race circuit,0.02,2.2,71.8,Damp
+Mercedes,127.01933333333335,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Ferrari,127.80891666666666,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Williams,130.3897272727273,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Force India,128.23266666666666,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Red Bull,128.61358333333334,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Lotus F1,134.4478,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+McLaren,131.4850909090909,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Sauber,128.91716666666667,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Manor Marussia,135.7414,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Toro Rosso,135.63150000000002,43.4057,39.9578,Race circuit,0.0,6.7,55.6,Dry
+Mercedes,122.80483333333332,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Red Bull,122.83983333333333,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Force India,122.16059999999997,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Ferrari,122.22829999999999,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Toro Rosso,122.42949999999999,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+McLaren,131.22150000000002,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Sauber,134.402,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Williams,140.97150000000002,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Lotus F1,130.53940000000003,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Manor Marussia,148.94216666666668,30.1328,-97.6411,Race circuit,3.642,18.3,68.2,Wet
+Mercedes,85.45708333333334,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Red Bull,86.50208333333335,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Williams,87.41600000000001,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Toro Rosso,87.77459999999999,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Force India,88.14189999999999,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Lotus F1,88.6215,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Sauber,89.25899999999999,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Manor Marussia,91.4461,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Ferrari,92.5275,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+McLaren,95.04700000000001,19.4042,-99.0907,Race circuit,0.039,9.2,63.3,Wet
+Mercedes,77.15124999999999,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Ferrari,77.81091666666667,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Williams,79.07681818181817,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Red Bull,81.9417,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Force India,79.65029999999999,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Toro Rosso,80.01320000000001,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Lotus F1,80.7618,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Sauber,80.96170000000001,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+McLaren,80.95479999999999,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Manor Marussia,82.8217,-23.7036,-46.6997,Race circuit,0.0,10.3,76.1,Dry
+Mercedes,107.5185,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Ferrari,109.47163636363635,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Force India,109.50983333333335,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Red Bull,110.2018,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Toro Rosso,110.64389999999999,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Williams,110.3656,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+McLaren,116.5646,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Sauber,115.1596,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Lotus F1,112.03099999999999,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Manor Marussia,115.09820000000002,24.4672,54.6031,Race circuit,0.0,10.5,77.4,Dry
+Ferrari,93.21560000000001,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Mercedes,93.92890000000001,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Toro Rosso,94.5923,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Williams,96.2836,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Force India,96.36339999999998,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Red Bull,95.785,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+McLaren,96.587,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Renault,107.02433333333335,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Manor Marussia,97.91355555555556,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Sauber,97.70722222222223,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Haas F1 Team,99.65337499999998,-37.8497,144.968,Street circuit,0.02,7.2,59.0,Damp
+Mercedes,99.05649999999999,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Williams,99.56309999999999,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Red Bull,100.8397,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Ferrari,99.9162,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Haas F1 Team,100.51920000000001,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Toro Rosso,106.9367,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+McLaren,101.21079999999999,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Force India,106.30800000000002,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Manor Marussia,102.9721,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Sauber,102.8117,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Renault,103.0984,26.0325,50.5106,Race circuit,0.0,11.0,69.3,Dry
+Red Bull,115.69022222222222,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Mercedes,116.48066666666666,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Force India,113.13277777777778,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Toro Rosso,114.28744444444445,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Williams,115.7843,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Ferrari,114.12025,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+McLaren,116.31850000000001,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Sauber,125.70837500000002,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Renault,113.73866666666669,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Manor Marussia,115.8871,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Haas F1 Team,121.29666666666668,31.3389,121.22,Race circuit,0.374,15.7,65.8,Wet
+Mercedes,130.313,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Ferrari,130.5835,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Williams,130.83241666666666,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Toro Rosso,137.5592,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+McLaren,137.7906,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Red Bull,138.9827,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Haas F1 Team,138.54609999999997,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Renault,137.8223,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Sauber,138.515,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Manor Marussia,138.5392,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Force India,139.37539999999998,43.4057,39.9578,Race circuit,0.0,6.5,56.5,Dry
+Red Bull,111.05460000000001,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Toro Rosso,112.3252,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Ferrari,111.79739999999997,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Williams,112.9962,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Force India,112.83580000000002,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+McLaren,112.7218,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Haas F1 Team,113.23399999999997,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Renault,113.49109999999999,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Sauber,113.8477,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Manor Marussia,114.27770000000001,41.57,2.26111,Race circuit,0.0,4.3,62.8,Dry
+Red Bull,136.244,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Mercedes,133.5278,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Ferrari,134.6206,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Force India,134.5739,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Toro Rosso,153.37155555555557,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+McLaren,135.4082,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Williams,136.4561111111111,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Haas F1 Team,136.88766666666666,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Renault,138.995375,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Sauber,139.78099999999998,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Manor Marussia,139.79562500000003,43.7347,7.42056,Street circuit,0.0,3.6,65.1,Dry
+Ferrari,80.52980000000001,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Mercedes,81.0966,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Red Bull,80.96239999999999,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Williams,81.6371,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+McLaren,82.81869999999999,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Force India,82.5429,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Haas F1 Team,84.04974999999999,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Toro Rosso,84.424875,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Manor Marussia,85.23150000000001,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Renault,85.43075,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Sauber,85.7425,45.5,-73.5228,Street circuit,0.02,3.1,58.1,Damp
+Mercedes,112.5463,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Red Bull,114.18589999999999,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Ferrari,112.45290000000003,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Force India,113.9025,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Williams,113.801,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Toro Rosso,116.54012499999999,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Haas F1 Team,115.51544444444443,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+McLaren,115.59249999999999,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Sauber,115.95533333333333,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Manor Marussia,120.86712499999999,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Renault,116.76249999999999,40.3725,49.8533,Street circuit,0.0,14.8,78.6,Dry
+Mercedes,73.04450000000001,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+McLaren,73.91760000000001,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Ferrari,73.51570000000001,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Force India,73.9726,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Red Bull,73.6602,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Williams,75.12877777777777,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Toro Rosso,76.61071428571428,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Manor Marussia,75.64644444444446,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Haas F1 Team,75.447,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Renault,75.672,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Sauber,76.24987499999999,47.2197,14.7647,Race circuit,0.217,4.5,68.9,Wet
+Mercedes,172.60229999999999,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Red Bull,172.9557,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Ferrari,172.95690000000002,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Williams,175.00199999999995,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Toro Rosso,175.4153333333333,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Force India,173.18649999999997,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+McLaren,175.7598888888889,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Haas F1 Team,175.6657777777778,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Renault,179.19449999999998,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Manor Marussia,179.91637500000002,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Sauber,180.3665,52.0786,-1.01694,Race circuit,0.138,13.2,64.4,Wet
+Mercedes,87.72290000000001,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Red Bull,88.19590000000001,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Ferrari,89.61359999999999,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+McLaren,89.93266666666666,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Toro Rosso,91.17011111111111,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Williams,91.31511111111111,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Force India,90.89766666666665,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Haas F1 Team,90.65050000000001,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Sauber,92.74225000000001,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Renault,92.47975,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Manor Marussia,92.88362500000001,47.5789,19.2486,Race circuit,0.039,3.8,74.1,Wet
+Mercedes,82.29490000000001,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Red Bull,82.3272,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Ferrari,83.181,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Williams,84.05090000000001,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Force India,84.89466666666665,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+McLaren,84.34790000000001,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Renault,88.167625,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Toro Rosso,85.26633333333335,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Sauber,86.944375,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Haas F1 Team,86.6515,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Manor Marussia,87.06750000000001,49.3278,8.56583,Race circuit,0.0,4.9,73.9,Dry
+Mercedes,122.04990909090911,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Force India,123.80133333333335,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Red Bull,124.54063636363635,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Williams,123.72527272727274,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Haas F1 Team,121.73939999999997,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Toro Rosso,123.92850000000003,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Renault,121.7961,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+McLaren,125.74333333333334,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Manor Marussia,123.11499999999998,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Sauber,132.84324999999998,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Ferrari,136.3892,50.4372,5.97139,Race circuit,0.059,5.8,76.3,Wet
+Mercedes,88.45449999999998,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Ferrari,88.3509,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Williams,89.42840000000001,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Red Bull,89.97319999999999,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Force India,90.1973,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+McLaren,91.4781111111111,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Manor Marussia,92.98487499999999,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Haas F1 Team,91.72555555555556,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Toro Rosso,92.0515,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Sauber,105.83325,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Renault,98.71249999999999,45.6156,9.28111,Race circuit,0.039,2.5,79.2,Wet
+Mercedes,134.3665,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Red Bull,135.3073,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Ferrari,136.6506,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+McLaren,137.5138,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Toro Rosso,136.054,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Williams,137.68789999999998,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Renault,137.82879999999997,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Sauber,137.12760000000003,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Force India,137.03040000000001,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Haas F1 Team,136.84500000000003,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Manor Marussia,138.48520000000002,1.2914,103.864,Street circuit,0.689,4.5,86.2,Wet
+Mercedes,114.16659999999999,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Red Bull,113.0071,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Force India,114.2637,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Ferrari,113.66100000000002,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+McLaren,114.6395,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Williams,118.01266666666668,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Haas F1 Team,119.83911111111112,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Manor Marussia,115.88789999999999,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Toro Rosso,118.82311111111113,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Sauber,117.52022222222223,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Renault,120.65811111111111,2.76083,101.738,Race circuit,0.0,4.3,83.1,Dry
+Mercedes,98.73369999999997,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Red Bull,98.8053,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Force India,99.6208,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Ferrari,99.2413,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Haas F1 Team,100.6319,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Toro Rosso,101.15799999999999,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Williams,102.075625,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+McLaren,103.27337499999999,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Renault,103.05400000000002,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Sauber,103.230625,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Manor Marussia,103.722125,34.8431,136.541,Race circuit,0.236,4.0,71.8,Wet
+Mercedes,104.43599999999999,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Red Bull,104.84040000000002,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Ferrari,105.22640000000001,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Williams,113.11644444444445,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Toro Rosso,107.54679999999999,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+McLaren,107.3711,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Haas F1 Team,108.23780000000002,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Sauber,109.92711111111112,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Renault,109.81362500000002,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Force India,114.40983333333334,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Manor Marussia,111.128875,30.1328,-97.6411,Race circuit,0.0,4.9,59.7,Dry
+Mercedes,101.34079999999999,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Red Bull,102.9725,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Force India,102.38019999999999,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Ferrari,102.30429999999998,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Williams,102.56979999999999,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Toro Rosso,105.6441111111111,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+McLaren,103.6603,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Renault,106.28411111111113,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Haas F1 Team,106.37811111111111,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Sauber,106.67355555555555,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Manor Marussia,108.9565,19.4042,-99.0907,Race circuit,0.0,8.9,59.0,Dry
+Mercedes,124.0078,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Ferrari,124.74300000000001,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Red Bull,124.9078,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Force India,125.94009999999999,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+McLaren,127.42730000000002,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Williams,126.90569999999998,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Haas F1 Team,127.12720000000002,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Toro Rosso,127.82149999999997,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Renault,129.54933333333332,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Manor Marussia,132.232,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Sauber,132.154625,-23.7036,-46.6997,Race circuit,0.886,12.1,65.3,Wet
+Mercedes,106.99000000000001,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Ferrari,107.49630000000002,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Red Bull,109.26722222222223,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Force India,108.43710000000002,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+McLaren,110.07829999999998,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Williams,110.14590000000001,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Renault,114.23666666666665,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Toro Rosso,112.008,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Sauber,112.51287500000001,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Haas F1 Team,112.06275000000001,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Manor Marussia,112.65475,24.4672,54.6031,Race circuit,0.0,9.6,75.7,Dry
+Mercedes,90.5537,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Ferrari,90.98740000000001,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Red Bull,112.45600000000002,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Williams,95.65949999999998,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Haas F1 Team,100.1211,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Toro Rosso,93.5713,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Force India,94.1652,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+McLaren,95.1877,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Renault,95.1494,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Sauber,97.53479999999999,-37.8497,144.968,Street circuit,0.079,6.7,73.2,Wet
+Mercedes,145.91583333333332,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Ferrari,146.82508333333334,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Red Bull,146.10141666666667,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Toro Rosso,146.7871,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+McLaren,149.26718181818183,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Williams,148.42159999999998,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Force India,148.8995,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Renault,150.22889999999998,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Haas F1 Team,150.86260000000001,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Sauber,148.52687500000002,31.3389,121.22,Race circuit,0.0,7.4,63.1,Dry
+Mercedes,97.06474999999999,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Ferrari,97.63790909090908,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Red Bull,97.46841666666667,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Williams,99.2577,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Renault,99.5653,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Haas F1 Team,99.9454,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Force India,99.745,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Toro Rosso,100.34020000000001,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+McLaren,100.5378,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Sauber,101.0198,26.0325,50.5106,Race circuit,0.0,8.7,78.4,Dry
+Mercedes,122.63608333333332,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Ferrari,122.66791666666667,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Red Bull,129.6137272727273,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Williams,124.94708333333335,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Force India,124.55191666666666,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Renault,124.89733333333334,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Haas F1 Team,125.32583333333332,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Toro Rosso,125.58883333333331,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Sauber,128.74290909090908,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+McLaren,126.10983333333336,43.4057,39.9578,Race circuit,0.0,7.4,61.9,Dry
+Ferrari,86.76616666666666,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Mercedes,87.62766666666666,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Red Bull,98.91199999999999,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Force India,89.65083333333335,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Renault,93.39954545454547,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Haas F1 Team,91.10245454545453,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Toro Rosso,93.06745454545454,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+McLaren,92.54469999999999,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Sauber,92.1879,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Williams,96.59670000000001,41.57,2.26111,Race circuit,0.0,8.1,69.4,Dry
+Ferrari,78.76720000000002,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Mercedes,80.8819,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Red Bull,79.8287,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Toro Rosso,81.2124,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Force India,81.75949999999999,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Haas F1 Team,81.35990000000001,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Renault,82.4312,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+McLaren,85.00580000000001,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Williams,83.08220000000001,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Sauber,85.6312,43.7347,7.42056,Street circuit,0.0,3.1,66.7,Dry
+Mercedes,99.55566666666665,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Red Bull,99.93108333333333,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Ferrari,104.53509090909091,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Force India,100.50708333333336,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Renault,103.41627272727273,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Toro Rosso,101.17983333333332,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+McLaren,103.48954545454548,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Haas F1 Team,106.3913,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Williams,106.30140000000002,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Sauber,106.6646,45.5,-73.5228,Street circuit,0.012,3.4,68.4,Damp
+Mercedes,120.7773,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Ferrari,109.37700000000002,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Force India,109.87750000000001,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Red Bull,111.08850000000002,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Williams,110.45509999999999,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Renault,113.61229999999998,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Haas F1 Team,115.80659999999997,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Toro Rosso,113.86949999999999,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Sauber,115.1629,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+McLaren,115.3735,40.3725,49.8533,Street circuit,0.0,11.6,74.3,Dry
+Mercedes,70.972,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Ferrari,70.92174999999999,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Red Bull,70.70916666666666,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Haas F1 Team,72.62527272727274,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Force India,72.28891666666665,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Toro Rosso,78.05539999999999,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Williams,72.92390909090908,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Renault,74.00930000000001,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+McLaren,77.76400000000001,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Sauber,74.81679999999999,47.2197,14.7647,Race circuit,0.169,6.5,72.7,Wet
+Mercedes,117.262,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Ferrari,117.14866666666666,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Red Bull,120.37754545454544,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Renault,117.77116666666667,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Force India,118.40875000000001,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+McLaren,120.85927272727272,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Williams,120.91000000000003,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Haas F1 Team,123.4648,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Sauber,124.00870000000002,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Toro Rosso,124.0978,52.0786,-1.01694,Race circuit,0.012,10.3,62.2,Damp
+Ferrari,117.37433333333331,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Mercedes,117.86475,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Red Bull,117.86666666666667,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Toro Rosso,124.96730000000002,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+McLaren,124.7456,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Force India,124.8373,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Renault,125.0592,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Haas F1 Team,125.30710000000002,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Williams,125.46170000000002,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Sauber,125.65039999999999,47.5789,19.2486,Race circuit,0.0,8.7,72.3,Dry
+Mercedes,110.94183333333332,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Ferrari,111.29609090909092,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Red Bull,112.3838,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Renault,114.69299999999998,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+McLaren,115.62250000000002,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Force India,114.41599999999998,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Haas F1 Team,115.189,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Williams,115.84299999999999,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Toro Rosso,116.1002,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Sauber,120.74157142857143,50.4372,5.97139,Race circuit,0.0,5.4,66.4,Dry
+Mercedes,87.2762,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Force India,88.6852,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Williams,88.7064,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Ferrari,88.45840000000001,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Red Bull,95.6303,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Haas F1 Team,94.20120000000001,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Toro Rosso,90.2113,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Renault,90.9752,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Sauber,91.7271,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+McLaren,90.6147,45.6156,9.28111,Race circuit,1.398,6.5,61.7,Wet
+Mercedes,168.24124999999998,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+Red Bull,167.7555,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+Renault,168.79149999999998,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+Force India,169.435,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+McLaren,170.591,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+Toro Rosso,170.55316666666667,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+Haas F1 Team,171.28224999999998,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+Williams,171.62775,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+Sauber,180.27409999999998,1.2914,103.864,Street circuit,0.484,6.0,83.8,Wet
+Mercedes,98.91591666666666,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Red Bull,98.80175000000001,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+McLaren,100.7698181818182,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Force India,102.6215,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Williams,101.143,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Haas F1 Team,102.08109999999999,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Renault,101.977,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Ferrari,101.77180000000001,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Toro Rosso,102.41850000000002,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Sauber,103.3585,2.76083,101.738,Race circuit,0.0,4.7,82.2,Dry
+Mercedes,110.15525000000001,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Red Bull,110.18308333333333,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Ferrari,116.82800000000003,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Force India,110.66041666666666,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Williams,116.82329999999999,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Renault,114.8375,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Haas F1 Team,114.773,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Toro Rosso,115.1208,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Sauber,117.8682,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+McLaren,115.81480000000002,34.8431,136.541,Race circuit,0.0,2.2,66.4,Dry
+Ferrari,101.67818181818183,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Mercedes,101.43136363636364,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Red Bull,103.09,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Force India,103.78569999999999,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+McLaren,104.67699999999999,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Renault,105.20212500000001,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Williams,104.98029999999999,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Toro Rosso,105.40089999999998,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Haas F1 Team,106.94230000000002,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Sauber,110.2997,30.1328,-97.6411,Race circuit,0.0,10.1,78.3,Dry
+Red Bull,85.7379,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Mercedes,88.4394,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Force India,84.0228,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Renault,88.0099,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Williams,87.1911,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Ferrari,87.0371,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Haas F1 Team,86.43209999999999,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+McLaren,86.65039999999999,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Sauber,88.8807,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Toro Rosso,87.80769999999998,19.4042,-99.0907,Race circuit,0.0,6.9,61.5,Dry
+Ferrari,116.00441666666664,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Mercedes,116.63,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Red Bull,120.47118181818182,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+McLaren,116.62016666666666,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Williams,116.84033333333332,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Force India,116.68616666666668,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Renault,116.87808333333334,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Toro Rosso,117.23708333333332,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Sauber,117.30758333333331,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Haas F1 Team,125.46400000000001,-23.7036,-46.6997,Race circuit,0.0,7.6,65.1,Dry
+Mercedes,103.7271,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Ferrari,104.73339999999999,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Red Bull,105.02380000000001,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Renault,106.91060000000002,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Force India,106.81299999999999,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Williams,107.7699,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+McLaren,108.2671,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Haas F1 Team,109.17080000000001,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Toro Rosso,109.4109,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Sauber,109.6979,24.4672,54.6031,Race circuit,0.0,11.0,76.6,Dry
+Mercedes,92.37272727272726,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Ferrari,91.09689999999999,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Haas F1 Team,92.23330000000001,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Red Bull,92.53309999999999,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Renault,93.08330000000001,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+McLaren,93.487,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Force India,94.1464,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Williams,95.62299999999999,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Sauber,95.20750000000001,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Toro Rosso,97.21849999999999,-37.8497,144.968,Street circuit,0.728,6.9,70.0,Wet
+Ferrari,106.08283333333331,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Mercedes,106.99941666666666,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Red Bull,126.88899999999998,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Toro Rosso,109.27336363636364,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Haas F1 Team,109.73254545454543,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Force India,111.375,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Renault,110.8452,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+McLaren,111.1209,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Sauber,112.8934,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Williams,112.03609999999999,26.0325,50.5106,Race circuit,1.055,8.3,73.9,Wet
+Ferrari,99.6802,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Mercedes,100.08099999999999,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Red Bull,100.53970000000001,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Renault,101.91199999999999,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Haas F1 Team,102.4959,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+McLaren,103.4114,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Williams,103.70990000000002,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Force India,103.36170000000001,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Toro Rosso,104.6135,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Sauber,104.6288,31.3389,121.22,Race circuit,0.236,13.4,57.0,Wet
+Ferrari,160.92127272727274,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Mercedes,157.10091666666668,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Red Bull,157.75091666666668,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Renault,157.81224999999998,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Williams,158.226,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Force India,166.4018,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Toro Rosso,161.749,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Sauber,162.0369090909091,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+McLaren,166.26889999999997,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Haas F1 Team,166.3635,40.3725,49.8533,Street circuit,0.012,12.8,64.2,Damp
+Mercedes,131.76133333333334,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Ferrari,131.90008333333336,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Red Bull,132.13833333333335,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Haas F1 Team,132.32483333333334,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Renault,132.3655,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Sauber,132.8596666666667,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Force India,132.62083333333334,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+McLaren,132.691,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Williams,134.2537272727273,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Toro Rosso,135.7132,41.57,2.26111,Race circuit,0.071,4.9,62.6,Wet
+Red Bull,80.998,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Ferrari,79.2596,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Mercedes,79.55529999999999,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Force India,81.2219,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+McLaren,82.05949999999999,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Renault,82.0934,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Toro Rosso,82.65199999999999,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Williams,82.9075,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Sauber,83.2253,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Haas F1 Team,83.7666,43.7347,7.42056,Street circuit,0.0,3.4,67.8,Dry
+Ferrari,106.5725,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Mercedes,106.56358333333333,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Red Bull,106.68874999999998,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Force India,110.48590909090909,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Renault,107.51366666666665,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Sauber,110.96063636363637,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Haas F1 Team,114.3237,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Williams,114.5432,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+McLaren,114.29639999999999,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Toro Rosso,114.136,45.5,-73.5228,Street circuit,0.0,4.5,65.1,Dry
+Mercedes,142.5827272727273,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Red Bull,138.45333333333335,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Renault,138.98158333333336,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Haas F1 Team,139.06666666666666,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Sauber,142.86790909090908,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Ferrari,143.01845454545457,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Force India,139.3456666666667,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+McLaren,147.5741,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Toro Rosso,147.5134,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Williams,147.70179999999996,43.2506,5.79167,Race circuit,0.0,5.4,71.1,Dry
+Mercedes,70.278,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Red Bull,71.1409,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Ferrari,71.5187,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Haas F1 Team,72.31689999999999,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Renault,72.78369999999998,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Force India,73.0328,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Williams,73.3935,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Sauber,74.05940000000001,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Toro Rosso,73.7525,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+McLaren,79.1665,47.2197,14.7647,Race circuit,0.0,4.5,64.2,Dry
+Ferrari,94.18349999999998,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Mercedes,96.02745454545453,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Red Bull,95.15727272727273,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Renault,96.96790000000001,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Sauber,97.8934,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Force India,98.53990000000002,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Haas F1 Team,98.35310000000001,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+McLaren,98.7692,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Toro Rosso,111.14933333333335,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Williams,99.8723,52.0786,-1.01694,Race circuit,0.0,5.8,72.3,Dry
+Ferrari,78.93120000000002,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Mercedes,80.6226,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Red Bull,81.5938,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Haas F1 Team,81.4418,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Renault,81.82469999999999,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Force India,82.3971,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Sauber,82.71700000000001,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+McLaren,83.3587,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Williams,83.5975,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Toro Rosso,84.18119999999999,49.3278,8.56583,Race circuit,0.307,4.7,70.0,Wet
+Mercedes,84.87033333333335,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Ferrari,85.90508333333332,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Red Bull,87.2962,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Toro Rosso,87.58945454545454,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Haas F1 Team,87.868,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Renault,87.7861,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+McLaren,88.73889999999999,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Force India,89.26559999999999,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Williams,89.88709999999999,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Sauber,89.879,47.5789,19.2486,Race circuit,0.02,5.8,75.4,Damp
+Ferrari,151.4790833333333,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Mercedes,151.565,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Force India,151.09058333333334,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Red Bull,176.16709090909092,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Haas F1 Team,151.72383333333332,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Toro Rosso,152.37691666666666,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Sauber,152.31066666666666,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Williams,152.33891666666668,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Renault,152.57549999999998,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+McLaren,160.915,50.4372,5.97139,Race circuit,0.11,8.1,51.1,Wet
+Ferrari,108.06281818181819,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Mercedes,105.29366666666668,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Red Bull,108.32336363636364,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Haas F1 Team,112.27381818181817,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Renault,110.8961,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Force India,110.73710000000001,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Williams,110.5701,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+McLaren,111.56689999999999,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Toro Rosso,111.0962,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Sauber,111.9597,45.6156,9.28111,Race circuit,0.622,3.1,65.1,Wet
+Mercedes,142.07325000000003,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Ferrari,142.24908333333335,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Red Bull,145.45372727272726,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Force India,149.672,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Haas F1 Team,150.6475,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+McLaren,150.9677,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Renault,150.6444,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Toro Rosso,151.1696,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Sauber,151.0872,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Williams,151.88569999999999,1.2914,103.864,Street circuit,0.012,6.0,84.6,Damp
+Mercedes,100.09658333333333,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Ferrari,100.941,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Haas F1 Team,103.8999,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Sauber,103.71780000000001,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Force India,103.93789999999998,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Renault,105.27939999999998,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Red Bull,104.2394,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Williams,106.24960000000002,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+McLaren,107.1541,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Toro Rosso,120.36612500000001,43.4057,39.9578,Race circuit,0.0,6.0,68.0,Dry
+Mercedes,112.28810000000001,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Red Bull,113.65379999999998,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Ferrari,113.096,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Haas F1 Team,127.13110000000002,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Toro Rosso,114.30640000000001,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Force India,114.27440000000001,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Renault,115.2616,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Sauber,117.1491,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+McLaren,115.6523,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Williams,115.9434,34.8431,136.541,Race circuit,0.051,7.8,75.2,Wet
+Ferrari,102.20218181818181,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Mercedes,101.06708333333331,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Red Bull,102.36824999999999,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Renault,103.01041666666669,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Force India,104.25990000000002,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Haas F1 Team,114.86628571428571,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Williams,109.3631,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Toro Rosso,106.0663,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+McLaren,110.671,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Sauber,108.90129999999999,30.1328,-97.6411,Race circuit,0.031,10.3,64.9,Wet
+Red Bull,85.30772727272728,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Mercedes,85.89272727272727,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Ferrari,86.8601,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Renault,88.1045,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Sauber,89.0119,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Force India,91.76590000000002,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+McLaren,89.907,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Williams,90.7585,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Haas F1 Team,91.09029999999998,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Toro Rosso,92.89219999999999,19.4042,-99.0907,Race circuit,0.138,7.4,60.4,Wet
+Mercedes,75.14670000000001,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Ferrari,75.70779999999999,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Red Bull,75.7547,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Sauber,76.7639,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Haas F1 Team,76.8851,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Toro Rosso,77.5977,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Force India,77.88160000000002,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Renault,77.73179999999999,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+McLaren,78.4574,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Williams,78.62989999999999,-23.7036,-46.6997,Race circuit,0.02,6.5,68.2,Damp
+Mercedes,138.89258333333333,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Ferrari,142.48890909090912,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Sauber,143.42100000000002,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Red Bull,143.34445454545454,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Haas F1 Team,147.5366,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Force India,147.2814,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Renault,147.609,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Toro Rosso,148.3581,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+McLaren,148.2367,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Williams,148.49640000000002,24.4672,54.6031,Race circuit,0.0,8.5,78.6,Dry
+Mercedes,90.18169999999999,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Ferrari,91.02029999999999,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Red Bull,92.6269,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Haas F1 Team,92.2407,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Renault,98.2538,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Alfa Romeo,93.91369999999999,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+McLaren,93.6228,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Toro Rosso,93.82379999999999,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Racing Point,93.82709999999999,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Williams,100.29419999999999,-37.8497,144.968,Street circuit,0.012,4.3,66.4,Damp
+Ferrari,97.25300000000001,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Mercedes,98.25039999999998,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Red Bull,99.6722,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+McLaren,107.4722,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Haas F1 Team,105.6857,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Alfa Romeo,100.3897,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Renault,99.90090000000001,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Racing Point,105.5305,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Toro Rosso,100.7232,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Williams,102.01219999999999,26.0325,50.5106,Race circuit,0.315,11.6,72.0,Wet
+Mercedes,102.2312,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Ferrari,102.9594,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Red Bull,103.82690000000002,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Renault,105.3838,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Racing Point,106.0306,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Haas F1 Team,106.45929999999998,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Alfa Romeo,106.56490000000001,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Williams,107.8489,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Toro Rosso,106.98809999999999,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+McLaren,115.87910000000002,31.3389,121.22,Race circuit,0.0,9.6,60.3,Dry
+Mercedes,108.5459,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Ferrari,110.58690000000001,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Racing Point,111.5614,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Red Bull,112.36789999999999,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+McLaren,111.4617,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Toro Rosso,113.8979,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Renault,113.25750000000001,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Haas F1 Team,113.9096,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Alfa Romeo,114.0011,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Williams,114.9497,40.3725,49.8533,Street circuit,0.0,15.0,57.4,Dry
+Mercedes,83.9626,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Red Bull,84.9576,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Ferrari,84.99820000000001,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Haas F1 Team,86.2868,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Toro Rosso,86.89630000000001,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+McLaren,87.77550000000001,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Renault,87.9741,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Racing Point,87.8901,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Alfa Romeo,88.73580000000001,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Williams,89.84579999999998,41.57,2.26111,Race circuit,0.0,6.5,64.4,Dry
+Mercedes,77.90379999999999,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Red Bull,79.91,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Ferrari,80.5803,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Renault,81.5748,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Haas F1 Team,81.7497,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+McLaren,82.21759999999999,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Toro Rosso,81.9162,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Racing Point,83.00710000000001,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Alfa Romeo,83.6927,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Williams,84.09459999999999,43.7347,7.42056,Street circuit,0.0,2.7,60.1,Dry
+Ferrari,78.0153,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Mercedes,78.9965,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Renault,79.4881,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Red Bull,79.91689999999998,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+McLaren,82.3876,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Toro Rosso,85.3358,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Racing Point,81.5152,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Alfa Romeo,81.95410000000001,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Williams,83.3437,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Haas F1 Team,83.0375,45.5,-73.5228,Street circuit,0.0,3.8,64.9,Dry
+Mercedes,97.8951,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Ferrari,99.4783,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Red Bull,99.96740000000001,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+McLaren,100.46470000000001,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Alfa Romeo,101.32820000000001,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Renault,101.4578,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Racing Point,101.8711,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Haas F1 Team,102.2787,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Toro Rosso,102.5558,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Williams,103.99650000000001,43.2506,5.79167,Race circuit,0.0,8.3,70.9,Dry
+Ferrari,70.77969999999999,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Mercedes,70.50680000000001,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Alfa Romeo,72.134,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+McLaren,72.9751,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Red Bull,72.30189999999999,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Haas F1 Team,73.7997,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Racing Point,73.3334,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Renault,73.53110000000001,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Williams,74.9394,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Toro Rosso,74.49539999999999,47.2197,14.7647,Race circuit,0.0,3.6,68.4,Dry
+Mercedes,92.2757,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Ferrari,92.8542,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Red Bull,93.0275,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+McLaren,94.4678,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Renault,94.3235,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Toro Rosso,95.22299999999998,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Alfa Romeo,95.84819999999999,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Racing Point,95.4771,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Williams,96.7444,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Haas F1 Team,112.1971,52.0786,-1.01694,Race circuit,0.0,6.9,62.2,Dry
+Mercedes,108.17216666666667,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Alfa Romeo,114.51730000000002,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Red Bull,111.65054545454545,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Renault,114.09369999999998,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Ferrari,111.55881818181818,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Haas F1 Team,113.9306,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+McLaren,114.09189999999998,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Racing Point,113.378,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Toro Rosso,115.1214,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Williams,114.8711,49.3278,8.56583,Race circuit,0.335,5.6,76.6,Wet
+Red Bull,84.58770000000001,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Mercedes,84.6599,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Ferrari,84.0343,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+McLaren,86.24089999999998,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Alfa Romeo,87.41479999999999,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Haas F1 Team,87.3848,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Renault,87.733,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Racing Point,87.72779999999999,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Toro Rosso,87.52869999999999,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Williams,88.27609999999999,47.5789,19.2486,Race circuit,0.031,4.9,68.2,Wet
+Ferrari,148.78933333333333,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Mercedes,149.2785,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+McLaren,156.23371428571429,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Haas F1 Team,150.19508333333334,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Racing Point,154.01054545454545,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Toro Rosso,154.13199999999998,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Alfa Romeo,158.93349999999998,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Red Bull,158.7736,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Renault,158.83369999999996,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Williams,159.0686,50.4372,5.97139,Race circuit,0.0,9.8,70.9,Dry
+Ferrari,85.67370000000001,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Mercedes,85.7311,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Renault,86.88730000000001,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Racing Point,88.36089999999999,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+McLaren,88.8099,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Red Bull,90.70729999999999,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Alfa Romeo,89.0495,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Haas F1 Team,88.9787,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Toro Rosso,88.4761,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Williams,90.0111,45.6156,9.28111,Race circuit,0.02,2.9,65.8,Damp
+Ferrari,109.38320000000002,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Mercedes,109.67169999999999,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Red Bull,110.05330000000001,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+McLaren,123.90799999999999,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Alfa Romeo,111.9141,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Haas F1 Team,112.79810000000002,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Toro Rosso,112.36410000000001,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Racing Point,113.0624,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Renault,114.20509999999999,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Williams,118.1321,1.2914,103.864,Street circuit,0.0,7.2,85.3,Dry
+Ferrari,124.83483333333332,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Mercedes,125.85241666666667,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+McLaren,128.69172727272723,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Racing Point,132.24009999999998,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Red Bull,132.6494,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Renault,133.145,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Haas F1 Team,132.2586,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Alfa Romeo,133.4581,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Toro Rosso,132.88979999999998,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Williams,133.9406,43.4057,39.9578,Race circuit,0.366,6.0,64.6,Wet
+Mercedes,94.96059999999999,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Ferrari,97.89789999999998,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+McLaren,99.2634,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Red Bull,98.29090000000001,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Toro Rosso,98.48400000000001,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Racing Point,97.963,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Renault,98.3968,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Alfa Romeo,98.93339999999998,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Haas F1 Team,98.9788,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Williams,100.5204,34.8431,136.541,Race circuit,4.717,12.3,71.8,Wet
+Ferrari,90.12639999999999,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Red Bull,94.1724,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+McLaren,91.76719999999997,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Mercedes,91.53009999999999,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Toro Rosso,92.8706,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Racing Point,93.2319,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Renault,93.2886,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Alfa Romeo,93.7,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Haas F1 Team,94.7138,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Williams,95.0406,19.4042,-99.0907,Race circuit,0.531,5.4,61.2,Wet
+Mercedes,101.1579,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Red Bull,104.6732,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Ferrari,103.0805,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+McLaren,103.82390000000001,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Renault,104.28540000000001,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Toro Rosso,104.67249999999999,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Haas F1 Team,105.16040000000001,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Alfa Romeo,105.3124,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Racing Point,105.9825,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Williams,106.97499999999998,30.1328,-97.6411,Race circuit,0.0,5.6,49.8,Dry
+Red Bull,74.4938,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Mercedes,74.647,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Ferrari,75.399,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Toro Rosso,76.83509999999998,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Haas F1 Team,76.7536,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Alfa Romeo,76.4683,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+McLaren,77.21940000000001,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Renault,77.5608,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Racing Point,77.4478,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Williams,78.6568,-23.7036,-46.6997,Race circuit,0.0,8.3,64.0,Dry
+Mercedes,105.6547,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Ferrari,104.16779999999999,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Red Bull,104.67229999999999,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+McLaren,106.48519999999999,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Renault,106.9161,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Haas F1 Team,108.4229,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Racing Point,108.36950000000002,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Alfa Romeo,108.3674,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Toro Rosso,117.27110000000002,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Williams,109.87730000000002,24.4672,54.6031,Race circuit,0.0,5.8,73.9,Dry
+Mercedes,70.45840000000001,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+Red Bull,70.58290000000001,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+McLaren,71.6891,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+Racing Point,71.8732,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+Ferrari,72.078,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+Renault,73.26169999999999,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+AlphaTauri,73.37,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+Haas F1 Team,73.7828,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+Alfa Romeo,73.74149999999999,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+Williams,74.3219,47.2197,14.7647,Race circuit,0.0,3.4,61.7,Dry
+Mercedes,86.78516666666665,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+Red Bull,87.10191666666668,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+McLaren,89.46309090909091,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+Renault,91.36029999999998,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+AlphaTauri,91.8725,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+Ferrari,103.62780000000001,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+Racing Point,91.8563,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+Williams,92.9487,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+Haas F1 Team,92.33829999999999,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+Alfa Romeo,92.5537,47.2197,14.7647,Race circuit,1.862,3.4,60.3,Wet
+Mercedes,98.0668,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+Racing Point,100.3095,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+Red Bull,99.3051,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+Ferrari,100.00279999999998,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+McLaren,102.20040000000002,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+Renault,101.7061,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+Williams,114.65439999999998,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+AlphaTauri,101.6301,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+Alfa Romeo,103.21610000000001,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+Haas F1 Team,98.7236,47.5789,19.2486,Race circuit,0.386,3.8,63.1,Wet
+Mercedes,125.75216666666665,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+Red Bull,129.65854545454548,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+Ferrari,129.7888181818182,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+McLaren,126.78391666666666,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+Renault,126.95658333333336,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+Racing Point,127.02666666666669,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+AlphaTauri,133.89939999999999,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+Alfa Romeo,134.1628,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+Haas F1 Team,129.22516666666667,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+Williams,134.52249999999998,52.0786,-1.01694,Race circuit,0.012,9.8,66.6,Damp
+Mercedes,92.1015,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+Red Bull,93.87379999999999,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+Racing Point,93.6903,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+Renault,95.0939,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+AlphaTauri,95.4194,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+McLaren,95.24749999999999,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+Ferrari,96.23440000000001,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+Haas F1 Team,96.8394,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+Alfa Romeo,97.1317,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+Williams,97.36979999999998,52.0786,-1.01694,Race circuit,0.0,10.1,72.3,Dry
+Mercedes,85.3069,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+Red Bull,85.8578,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+Racing Point,86.1292,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+McLaren,87.30309999999999,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+AlphaTauri,87.6676,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+Ferrari,87.66929999999999,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+Renault,88.6729,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+Haas F1 Team,89.01519999999998,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+Alfa Romeo,89.19810000000001,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+Williams,89.6776,41.57,2.26111,Race circuit,0.0,5.1,79.7,Dry
+Mercedes,110.56275,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+Red Bull,111.90963636363635,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+Renault,112.23133333333332,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+Racing Point,113.3915,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+Ferrari,114.27199999999998,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+AlphaTauri,113.86860000000001,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+McLaren,114.18260000000001,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+Alfa Romeo,114.83250000000001,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+Haas F1 Team,115.5518,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+Williams,115.5038,50.4372,5.97139,Race circuit,0.0,7.6,54.5,Dry
+Mercedes,86.27340000000001,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+McLaren,86.29950000000001,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+Racing Point,87.09600000000002,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+Renault,87.26929999999999,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+Red Bull,87.85359999999999,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+AlphaTauri,87.82240000000002,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+Alfa Romeo,88.48099999999998,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+Ferrari,89.0069,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+Haas F1 Team,92.6865,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+Williams,89.7628,45.6156,9.28111,Race circuit,0.0,2.9,73.2,Dry
+Mercedes,133.87125,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+Ferrari,135.22336363636362,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+Red Bull,133.9375,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+Racing Point,134.02650000000003,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+Renault,134.13108333333332,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+McLaren,134.92872727272726,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+AlphaTauri,134.1865,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+Williams,135.2237,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+Haas F1 Team,135.7726,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+Alfa Romeo,136.1085,43.9975,11.3719,Race circuit,0.0,6.7,72.7,Dry
+Mercedes,155.4779166666667,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+Red Bull,161.47072727272726,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+Renault,156.1001666666667,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+Racing Point,156.28600000000003,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+AlphaTauri,161.56845454545453,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+Ferrari,161.72809090909092,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+Haas F1 Team,156.80533333333332,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+Alfa Romeo,167.94930000000002,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+Williams,168.07279999999997,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+McLaren,168.3354,43.4057,39.9578,Race circuit,0.0,7.6,73.0,Dry
+Mercedes,92.68089999999998,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+Red Bull,94.2834,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+Ferrari,95.8589,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+Renault,95.5759,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+McLaren,95.91629999999999,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+Racing Point,96.84119999999999,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+Alfa Romeo,97.40060000000001,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+AlphaTauri,97.26169999999999,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+Haas F1 Team,97.6679,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+Williams,97.8904,50.3356,6.9475,Race circuit,0.0,8.7,46.9,Dry
+Mercedes,86.75999999999998,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+McLaren,87.1038,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+Red Bull,88.16100000000002,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+Ferrari,89.08129999999998,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+Alfa Romeo,88.7563,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+Renault,88.71969999999999,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+AlphaTauri,89.5223,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+Racing Point,90.70750000000001,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+Williams,89.9329,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+Haas F1 Team,90.37339999999998,37.227,-8.6267,Race circuit,0.0,4.3,57.0,Dry
+Mercedes,80.5569,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+Red Bull,81.61359999999999,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+Renault,82.7752,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+AlphaTauri,82.47720000000001,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+Ferrari,83.42719999999998,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+McLaren,83.2265,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+Racing Point,87.2456,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+Williams,84.4205,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+Alfa Romeo,84.37920000000001,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+Haas F1 Team,86.1437,44.3439,11.7167,Race circuit,0.0,3.8,55.0,Dry
+Racing Point,116.0021,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+Ferrari,121.856,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+Red Bull,118.87459999999999,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+Mercedes,122.61839999999998,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+Renault,124.18229999999998,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+Alfa Romeo,123.09200000000001,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+McLaren,123.3649,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+Haas F1 Team,124.9716,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+AlphaTauri,124.93769999999999,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+Williams,131.2235,40.9517,29.405,Race circuit,0.0,4.0,61.7,Dry
+Mercedes,370.04081818181817,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+Red Bull,349.12058333333334,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+Racing Point,450.248,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+Renault,350.3106666666666,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+AlphaTauri,393.7872000000001,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+McLaren,369.7175454545455,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+Ferrari,370.67754545454545,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+Alfa Romeo,395.10009999999994,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+Haas F1 Team,396.26059999999995,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+Williams,394.7685,26.0325,50.5106,Race circuit,0.236,10.1,75.6,Wet
+Mercedes,88.09391666666666,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+McLaren,88.44291666666668,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+Renault,88.43208333333332,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+AlphaTauri,88.43941666666667,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+Racing Point,90.65954545454545,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+Ferrari,88.68400000000001,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+Haas F1 Team,92.4048,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+Red Bull,91.6382,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+Alfa Romeo,92.6884,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+Williams,92.3636,26.0325,50.5106,Race circuit,0.039,8.7,75.0,Wet
+Red Bull,103.83650000000003,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+Mercedes,103.5251,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+McLaren,105.11710000000001,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+AlphaTauri,106.0033,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+Racing Point,107.0445,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+Renault,106.60920000000002,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+Ferrari,107.0296,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+Alfa Romeo,107.61110000000001,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+Williams,108.94030000000001,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+Haas F1 Team,108.91279999999999,24.4672,54.6031,Race circuit,0.0,6.5,70.9,Dry
+Red Bull,124.2002727272727,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+Mercedes,121.11675000000002,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+Ferrari,124.10672727272731,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+AlphaTauri,132.1951,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+McLaren,123.91372727272731,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+Alpine F1 Team,127.40540000000001,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+Aston Martin,127.756,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+Alfa Romeo,127.7424,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+Williams,128.70299999999997,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+Haas F1 Team,130.5962,26.0325,50.5106,Race circuit,0.0,13.6,75.7,Dry
+Red Bull,136.42633333333336,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+Mercedes,137.50754545454544,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+Ferrari,137.09127272727275,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+McLaren,137.40672727272724,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+AlphaTauri,138.7292,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+Aston Martin,139.3994,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+Williams,139.28,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+Alfa Romeo,139.7904,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+Alpine F1 Team,140.6472,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+Haas F1 Team,142.40879999999999,44.3439,11.7167,Race circuit,0.012,5.8,47.1,Damp
+Mercedes,120.3051666666667,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+Red Bull,119.81036363636363,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+Ferrari,120.23127272727274,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+McLaren,120.41650000000001,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+Alpine F1 Team,120.6864,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+AlphaTauri,121.0941,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+Aston Martin,121.4263,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+Williams,121.65770000000002,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+Alfa Romeo,116.56349999999999,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+Haas F1 Team,123.04220000000001,37.227,-8.6267,Race circuit,0.0,9.4,56.5,Dry
+Red Bull,85.0182,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+Mercedes,84.9503,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+Ferrari,86.1566,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+McLaren,86.61390000000002,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+Alpine F1 Team,87.04580000000001,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+Aston Martin,87.7856,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+AlphaTauri,88.4161,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+Alfa Romeo,88.41290000000001,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+Haas F1 Team,89.4695,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+Williams,89.38579999999997,41.57,2.26111,Race circuit,0.0,4.9,66.0,Dry
+Red Bull,79.35572727272725,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+Mercedes,79.12100000000001,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+Ferrari,78.716,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+McLaren,80.7930909090909,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+AlphaTauri,81.37572727272727,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+Aston Martin,81.1987,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+Alfa Romeo,81.76239999999999,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+Alpine F1 Team,82.35709999999999,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+Williams,83.38459999999999,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+Haas F1 Team,83.95400000000001,43.7347,7.42056,Street circuit,0.059,5.6,59.2,Wet
+Ferrari,109.644,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+Mercedes,109.9051818181818,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+Red Bull,109.15027272727274,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+AlphaTauri,110.2382,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+Alpine F1 Team,114.34325000000001,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+Aston Martin,111.77020000000002,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+McLaren,111.67849999999999,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+Alfa Romeo,114.63720000000004,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+Williams,115.25230000000002,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+Haas F1 Team,113.94640000000001,40.3725,49.8533,Street circuit,0.0,15.2,71.2,Dry
+Mercedes,100.9526,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+Red Bull,101.479,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+Ferrari,102.75649999999999,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+AlphaTauri,103.78119999999998,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+Alpine F1 Team,103.67999999999999,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+McLaren,103.52439999999999,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+Aston Martin,104.25160000000001,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+Alfa Romeo,104.3739,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+Williams,105.34769999999999,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+Haas F1 Team,106.26820000000001,43.2506,5.79167,Race circuit,0.0,8.9,73.8,Dry
+Red Bull,70.962,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+Mercedes,71.34372727272728,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+McLaren,72.38981818181819,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+Aston Martin,73.3033,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+Alpine F1 Team,73.62870000000001,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+Williams,79.2357,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+AlphaTauri,82.0055,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+Ferrari,75.584,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+Alfa Romeo,74.3004,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+Haas F1 Team,74.80040000000001,47.2197,14.7647,Race circuit,0.0,3.6,65.8,Dry
+Red Bull,90.06327272727273,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+McLaren,90.26918181818182,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+Mercedes,88.28483333333334,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+AlphaTauri,90.45499999999998,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+Aston Martin,92.6965,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+Ferrari,93.26180000000001,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+Alfa Romeo,93.7162,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+Williams,93.50970000000001,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+Alpine F1 Team,93.6142,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+Haas F1 Team,93.9573,47.2197,14.7647,Race circuit,0.091,4.0,64.6,Wet
+Ferrari,511.1719090909092,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+Mercedes,476.3041666666666,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+McLaren,476.61483333333337,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+Aston Martin,555.3213,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+Alpine F1 Team,554.0985,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+Alfa Romeo,554.5310000000001,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+AlphaTauri,554.9375000000001,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+Williams,555.1501,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+Haas F1 Team,555.739,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+Red Bull,555.0744,52.0786,-1.01694,Race circuit,0.0,4.9,70.3,Dry
+Mercedes,365.0905,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+Alpine F1 Team,323.23092857142854,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+Aston Martin,322.654,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+Ferrari,323.8298571428572,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+AlphaTauri,342.6364615384616,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+Williams,323.9141428571428,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+Red Bull,324.81357142857144,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+Alfa Romeo,343.09699999999987,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+Haas F1 Team,416.90059999999994,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+McLaren,289.0196666666667,47.5789,19.2486,Race circuit,0.0,5.6,76.1,Dry
+Red Bull,226.1735,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+Williams,215.81099999999998,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+Mercedes,219.57850000000002,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+McLaren,222.874,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+Aston Martin,227.86450000000002,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+AlphaTauri,226.324,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+Alpine F1 Team,223.15550000000002,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+Ferrari,221.458,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+Alfa Romeo,237.17950000000002,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+Haas F1 Team,237.821,50.4372,5.97139,Race circuit,0.177,7.2,54.1,Wet
+Red Bull,78.3765,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+Mercedes,76.2034,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+AlphaTauri,78.92260000000002,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+Ferrari,78.46340000000001,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+Alpine F1 Team,79.23740000000001,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+McLaren,79.8451,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+Alfa Romeo,80.33800000000001,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+Williams,80.8345,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+Aston Martin,80.3296,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+Haas F1 Team,85.47340000000001,52.3888,4.54092,Street circuit,0.0,10.5,60.3,Dry
+McLaren,89.27758333333333,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Red Bull,90.02891666666665,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Mercedes,91.62836363636363,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Ferrari,90.55333333333333,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Aston Martin,92.8247,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Alpine F1 Team,92.8108,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Williams,93.6879,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Alfa Romeo,98.4331,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Haas F1 Team,95.13349999999998,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+AlphaTauri,106.783,45.6156,9.28111,Race circuit,0.012,2.9,73.4,Damp
+Ferrari,103.56379999999999,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+McLaren,103.0646,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+Williams,104.946,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+Aston Martin,104.3661,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+Alpine F1 Team,104.5874,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+Mercedes,104.69109999999998,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+Red Bull,104.83309999999999,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+Alfa Romeo,105.74959999999999,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+Haas F1 Team,106.6001,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+AlphaTauri,106.05160000000001,43.4057,39.9578,Race circuit,3.031,8.5,55.8,Wet
+Mercedes,96.2442,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+Red Bull,95.4668,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+Ferrari,97.5192,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+AlphaTauri,97.078,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+McLaren,98.56709999999998,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+Aston Martin,97.8525,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+Alpine F1 Team,99.50999999999999,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+Alfa Romeo,99.2519,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+Williams,100.47459999999998,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+Haas F1 Team,100.9436,40.9517,29.405,Race circuit,0.287,6.7,71.2,Wet
+Mercedes,103.6857,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+Red Bull,101.90100000000001,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+Ferrari,103.91119999999998,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+McLaren,104.2403,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+AlphaTauri,105.41950000000001,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+Alfa Romeo,106.3761,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+Alpine F1 Team,110.26230000000001,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+Williams,107.3205,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+Aston Martin,107.18739999999998,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+Haas F1 Team,109.872,30.1328,-97.6411,Race circuit,0.0,9.6,76.3,Dry
+Red Bull,109.23449999999998,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+Mercedes,113.17518181818178,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+AlphaTauri,109.86066666666666,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+Ferrari,110.18683333333335,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+Alfa Romeo,110.73991666666666,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+Aston Martin,113.74518181818183,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+Williams,113.59645454545453,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+Haas F1 Team,116.73240000000001,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+Alpine F1 Team,116.78339999999999,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+McLaren,117.30730000000001,19.4042,-99.0907,Race circuit,0.0,5.8,58.5,Dry
+Red Bull,75.52099999999999,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+Mercedes,76.4624,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+Ferrari,77.1757,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+Aston Martin,78.17920000000001,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+AlphaTauri,83.2888,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+McLaren,84.72810000000001,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+Alpine F1 Team,78.14759999999998,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+Alfa Romeo,79.5661,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+Haas F1 Team,79.6777,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+Williams,80.0314,-23.7036,-46.6997,Race circuit,0.0,10.7,58.8,Dry
+Mercedes,92.03,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+Alpine F1 Team,92.13799999999999,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+AlphaTauri,92.76649999999998,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+Red Bull,92.1029,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+McLaren,93.3524,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+Ferrari,93.35720000000002,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+Aston Martin,94.13029999999999,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+Alfa Romeo,94.0451,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+Williams,94.7335,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+Haas F1 Team,95.5721,25.49,51.4542,Race circuit,0.0,5.8,74.5,Dry
+Mercedes,94.1944,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+Red Bull,95.0664,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+Ferrari,96.6035,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+McLaren,96.83509999999998,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+Alpine F1 Team,97.17,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+AlphaTauri,97.64580000000001,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+Alfa Romeo,98.02329999999998,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+Aston Martin,99.061,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+Williams,99.9244,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+Haas F1 Team,100.1233,21.6319,39.1044,Street circuit,0.0,4.3,81.1,Dry
+Mercedes,90.58345454545453,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+Red Bull,89.75891666666666,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+Ferrari,91.42754545454545,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+McLaren,92.05618181818183,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+AlphaTauri,92.6865,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+Alpine F1 Team,92.8028,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+Alfa Romeo,93.9067,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+Aston Martin,93.9733,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+Williams,94.8013,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+Haas F1 Team,94.76,24.4672,54.6031,Race circuit,0.0,5.6,72.9,Dry
+Ferrari,98.8808,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+Red Bull,99.3076,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+Mercedes,99.91239999999998,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+Haas F1 Team,101.68679999999998,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+AlphaTauri,101.5578,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+Alpine F1 Team,101.3595,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+Williams,103.1002,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+Alfa Romeo,102.8441,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+Aston Martin,103.10830000000001,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+McLaren,103.68469999999999,26.0325,50.5106,Race circuit,0.0,16.1,65.7,Dry
+Red Bull,95.11016666666666,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+Ferrari,95.53508333333333,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+Alpine F1 Team,97.25558333333333,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+Mercedes,98.07527272727272,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+Alfa Romeo,98.60809090909092,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+Haas F1 Team,97.94733333333333,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+AlphaTauri,98.40583333333332,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+McLaren,99.1285,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+Aston Martin,99.53529999999999,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+Williams,100.1029,21.6319,39.1044,Street circuit,0.0,16.6,73.4,Dry
+Ferrari,113.115,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+Red Bull,115.61775,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+Mercedes,113.63781818181819,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+McLaren,111.976,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+Alpine F1 Team,112.9547,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+AlphaTauri,113.30080000000001,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+Alfa Romeo,113.92910000000002,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+Haas F1 Team,114.11179999999999,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+Aston Martin,115.03689999999999,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+Williams,115.04400000000001,-37.8497,144.968,Street circuit,0.0,5.4,68.7,Dry
+Red Bull,120.71483333333333,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+McLaren,125.06745454545454,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+Ferrari,121.32816666666666,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+Haas F1 Team,125.28372727272728,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+Mercedes,128.40160000000003,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+Alfa Romeo,128.83939999999998,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+Alpine F1 Team,129.0094,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+Aston Martin,128.52579999999998,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+AlphaTauri,128.7884,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+Williams,129.33409999999998,44.3439,11.7167,Race circuit,0.012,6.3,58.3,Damp
+Ferrari,95.1607,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+Red Bull,95.40220000000002,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+Alfa Romeo,97.3554,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+AlphaTauri,97.3956,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+Alpine F1 Team,98.10560000000001,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+Mercedes,97.6486,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+McLaren,97.89970000000001,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+Haas F1 Team,97.98829999999998,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+Williams,99.0603,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+Aston Martin,100.5035,25.9581,-80.2389,Street circuit,0.071,11.9,82.4,Wet
+Ferrari,88.50989999999999,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+Red Bull,88.4961,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+Mercedes,93.88220000000001,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+Haas F1 Team,96.61679999999998,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+Alfa Romeo,91.1847,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+McLaren,91.12219999999999,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+Alpine F1 Team,91.28089999999999,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+AlphaTauri,91.48330000000001,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+Aston Martin,92.0101,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+Williams,92.7125,41.57,2.26111,Race circuit,0.0,5.1,77.0,Dry
+Ferrari,120.5821,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+Red Bull,121.26750000000001,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+McLaren,123.76640000000002,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+Mercedes,122.63559999999998,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+Alpine F1 Team,123.5551,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+Aston Martin,127.25629999999998,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+AlphaTauri,126.8133,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+Alfa Romeo,125.5276,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+Haas F1 Team,127.2444,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+Williams,129.4169,43.7347,7.42056,Street circuit,0.012,3.8,73.2,Damp
+Red Bull,109.1555,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+Ferrari,109.73670000000001,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+Mercedes,111.1846,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+AlphaTauri,111.7692,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+Aston Martin,113.37729999999999,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+Alpine F1 Team,112.9759,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+McLaren,112.8874,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+Alfa Romeo,114.11719999999998,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+Williams,117.5848,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+Haas F1 Team,114.56510000000003,40.3725,49.8533,Street circuit,0.0,9.8,71.1,Dry
+Red Bull,80.9178,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+Alpine F1 Team,80.93740000000001,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+Ferrari,81.57249999999998,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+Mercedes,80.89609999999999,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+Haas F1 Team,81.59629999999999,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+McLaren,82.4615,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+Alfa Romeo,82.31609999999999,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+Williams,83.25550000000001,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+Aston Martin,84.6376,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+AlphaTauri,85.0309,45.5,-73.5228,Street circuit,0.079,4.3,52.9,Wet
+Red Bull,677.2524545454545,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+Ferrari,628.1638333333334,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+Mercedes,629.2524999999999,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+Alpine F1 Team,630.0028333333335,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+McLaren,629.9703333333333,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+Williams,630.3271666666667,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+Alfa Romeo,630.4188333333334,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+AlphaTauri,630.0479166666667,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+Haas F1 Team,630.7463333333334,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+Aston Martin,679.3540909090909,52.0786,-1.01694,Race circuit,0.0,11.2,57.7,Dry
+Red Bull,77.3715,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+Ferrari,71.1251,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+Mercedes,72.5924,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+Alpine F1 Team,73.391,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+Haas F1 Team,72.65029999999999,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+McLaren,73.37120000000002,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+Aston Martin,73.99069999999999,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+AlphaTauri,73.8273,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+Williams,74.01590000000002,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+Alfa Romeo,74.30620000000002,47.2197,14.7647,Race circuit,0.0,4.3,60.1,Dry
+Ferrari,101.36679999999998,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+Red Bull,100.169,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+Mercedes,100.86600000000001,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+Alpine F1 Team,101.9401,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+McLaren,102.10239999999999,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+Aston Martin,102.71199999999999,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+Williams,103.81469999999999,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+Haas F1 Team,103.25430000000001,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+AlphaTauri,104.3885,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+Alfa Romeo,104.18619999999999,43.2506,5.79167,Race circuit,0.0,8.1,79.9,Dry
+Mercedes,92.4292,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+Ferrari,92.3433,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+McLaren,93.7314,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+Alpine F1 Team,93.71109999999999,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+Red Bull,93.8269,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+Haas F1 Team,94.6336,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+Alfa Romeo,95.4195,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+Aston Martin,95.39989999999999,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+Williams,98.0737,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+AlphaTauri,95.9689,47.5789,19.2486,Race circuit,0.169,9.2,72.1,Wet
+Ferrari,144.37118181818184,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+Red Bull,141.46258333333336,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+Mercedes,141.42800000000003,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+Alpine F1 Team,144.59336363636365,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+Aston Martin,142.14708333333334,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+McLaren,144.95627272727273,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+Williams,145.16754545454546,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+Haas F1 Team,148.2979,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+Alfa Romeo,144.43550000000002,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+AlphaTauri,148.43610000000004,50.4372,5.97139,Race circuit,0.0,4.5,56.5,Dry
+Red Bull,77.7212,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+Ferrari,77.571,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+Mercedes,78.30359999999999,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+McLaren,79.9486,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+Aston Martin,80.0617,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+Alpine F1 Team,79.89220000000003,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+Haas F1 Team,80.7919,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+AlphaTauri,80.09379999999999,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+Alfa Romeo,80.79419999999999,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+Williams,80.9911,52.3888,4.54092,Street circuit,0.0,9.4,68.7,Dry
+Ferrari,87.99350000000001,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+Mercedes,88.82010000000001,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+McLaren,88.47540000000001,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+Red Bull,88.3482,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+AlphaTauri,89.45360000000001,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+Alpine F1 Team,89.23429999999999,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+Williams,89.60459999999999,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+Alfa Romeo,89.8783,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+Aston Martin,89.47279999999999,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+Haas F1 Team,90.37750000000001,45.6156,9.28111,Race circuit,0.0,3.8,71.6,Dry
+Red Bull,124.04790000000003,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+Ferrari,122.50340000000001,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+Mercedes,126.62870000000002,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+McLaren,126.60889999999999,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+Alpine F1 Team,127.14529999999999,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+AlphaTauri,126.67230000000002,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+Aston Martin,127.25279999999998,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+Haas F1 Team,128.5076,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+Alfa Romeo,130.0553,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+Williams,130.776,1.2914,103.864,Street circuit,0.0,2.7,81.0,Dry
+Red Bull,220.26516666666666,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+Ferrari,220.0495,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+Alpine F1 Team,221.13083333333336,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+Mercedes,221.34525,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+McLaren,231.70900000000003,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+AlphaTauri,232.22145454545455,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+Haas F1 Team,231.7745454545455,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+Aston Martin,243.85189999999997,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+Alfa Romeo,244.14230000000003,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+Williams,244.66420000000002,34.8431,136.541,Race circuit,0.02,4.3,64.8,Damp
+Red Bull,102.96641666666666,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+Mercedes,103.07324999999999,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+Aston Martin,104.03400000000002,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+McLaren,105.7781,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+AlphaTauri,105.78680000000001,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+Williams,107.3683,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+Ferrari,106.67966666666668,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+Alfa Romeo,105.99629999999999,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+Alpine F1 Team,106.43980000000002,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+Haas F1 Team,106.9742,30.1328,-97.6411,Race circuit,0.0,13.4,73.2,Dry
+Red Bull,83.9538,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+Mercedes,84.28209999999999,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+Ferrari,85.2261,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+Alpine F1 Team,86.3246,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+Alfa Romeo,86.6991,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+McLaren,86.9324,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+AlphaTauri,87.2987,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+Aston Martin,87.54080000000002,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+Haas F1 Team,88.27680000000001,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+Williams,88.51829999999998,19.4042,-99.0907,Race circuit,0.0,6.7,66.9,Dry
+Mercedes,114.06125000000002,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+Red Bull,114.12458333333335,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+McLaren,114.22583333333334,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+Ferrari,114.28466666666668,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+Aston Martin,114.55609090909091,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+AlphaTauri,115.14945454545455,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+Haas F1 Team,114.4375,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+Alfa Romeo,114.8344,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+Alpine F1 Team,115.31590000000001,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+Williams,116.1279,-23.7036,-46.6997,Race circuit,0.02,7.8,68.5,Damp
+Red Bull,90.9485,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+Ferrari,91.881,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+Mercedes,92.09419999999999,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+McLaren,93.1462,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+Alpine F1 Team,92.89510000000001,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+Aston Martin,93.18659999999998,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+AlphaTauri,94.07239999999999,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+Haas F1 Team,94.84700000000001,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+Alfa Romeo,94.8269,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+Williams,94.9224,24.4672,54.6031,Race circuit,0.0,7.8,79.9,Dry
+Red Bull,98.6927,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+Ferrari,99.28740000000002,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+Mercedes,99.9362,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+Aston Martin,100.4786,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+Alfa Romeo,101.6184,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+McLaren,101.982,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+Alpine F1 Team,101.85889999999999,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+Williams,101.66099999999999,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+Haas F1 Team,102.5491,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+AlphaTauri,102.3117,26.0325,50.5106,Race circuit,0.0,5.1,68.4,Dry
+Aston Martin,96.08290000000001,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+Red Bull,96.98060000000001,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+Mercedes,96.8069,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+Ferrari,97.0395,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+Alpine F1 Team,97.24309999999998,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+Alfa Romeo,98.5251,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+Haas F1 Team,98.6412,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+AlphaTauri,99.2893,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+Williams,99.3399,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+McLaren,104.43500000000002,21.6319,39.1044,Street circuit,0.0,8.5,81.0,Dry
+Mercedes,102.15241666666667,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+Red Bull,105.25581818181819,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+Ferrari,102.52499999999999,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+Aston Martin,104.65745454545454,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+Williams,108.07930000000002,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+Alpine F1 Team,107.8865,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+Haas F1 Team,107.71639999999998,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+AlphaTauri,108.03150000000001,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+McLaren,108.001,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+Alfa Romeo,108.89439999999999,-37.8497,144.968,Street circuit,0.0,7.2,55.2,Dry
+Ferrari,108.5761,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+Red Bull,108.21900000000001,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+Mercedes,109.4539,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+Aston Martin,109.19920000000002,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+McLaren,110.1217,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+AlphaTauri,111.0538,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+Williams,111.03710000000001,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+Haas F1 Team,111.6464,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+Alpine F1 Team,112.0912,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+Alfa Romeo,111.7769,40.3725,49.8533,Street circuit,0.0,7.8,66.0,Dry
+Red Bull,94.59279999999998,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+Aston Martin,95.5859,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+Ferrari,95.07750000000001,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+Alpine F1 Team,95.2401,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+Mercedes,95.5958,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+Haas F1 Team,95.7422,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+Alfa Romeo,96.2859,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+Williams,101.1871,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+McLaren,99.3818,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+AlphaTauri,96.98469999999999,25.9581,-80.2389,Street circuit,0.177,9.4,78.6,Wet
+Red Bull,82.5912,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+Aston Martin,82.0916,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+Alpine F1 Team,81.4088,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+Ferrari,81.4129,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+Mercedes,81.8012,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+AlphaTauri,82.8173,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+McLaren,82.9272,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+Williams,83.4565,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+Alfa Romeo,84.7857,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+Haas F1 Team,85.11,43.7347,7.42056,Street circuit,0.0,3.1,67.8,Dry
+Red Bull,82.22569999999999,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+Ferrari,83.09599999999999,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+Aston Martin,82.2835,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+Mercedes,82.4777,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+Alpine F1 Team,83.2031,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+Haas F1 Team,83.54169999999999,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+Alfa Romeo,84.05440000000002,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+McLaren,86.6004,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+AlphaTauri,83.7756,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+Williams,84.54820000000001,41.57,2.26111,Race circuit,0.248,4.7,65.8,Wet
+Red Bull,79.9119,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+Mercedes,79.28389999999999,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+Aston Martin,80.3086,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+Alpine F1 Team,80.78609999999999,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+Haas F1 Team,81.02709999999999,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+McLaren,80.64450000000002,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+Ferrari,80.94609999999999,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+Williams,81.5531,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+Alfa Romeo,82.116,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+AlphaTauri,83.6449,45.5,-73.5228,Street circuit,0.425,5.8,58.6,Wet
+Red Bull,92.4237,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+Ferrari,91.90259999999999,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+Mercedes,92.74459999999999,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+McLaren,93.0676,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+Aston Martin,92.7789,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+Haas F1 Team,93.55860000000001,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+Alpine F1 Team,93.2607,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+Williams,93.4984,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+Alfa Romeo,93.80019999999999,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+AlphaTauri,94.0495,47.2197,14.7647,Race circuit,0.079,2.7,61.3,Wet
+McLaren,93.9622,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Red Bull,95.0999,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Ferrari,94.6156,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Mercedes,94.8648,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Aston Martin,95.4,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Alpine F1 Team,95.6283,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Williams,96.17119999999998,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+AlphaTauri,96.58229999999999,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Haas F1 Team,96.9858,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Alfa Romeo,97.097,52.0786,-1.01694,Race circuit,0.394,8.1,69.8,Wet
+Red Bull,86.342,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+McLaren,85.79233333333333,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+Mercedes,87.15690909090908,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+Ferrari,86.58358333333335,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+Aston Martin,87.4479090909091,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+Haas F1 Team,88.09870000000002,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+AlphaTauri,88.5774,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+Alfa Romeo,88.5,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+Williams,88.8526,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+Alpine F1 Team,111.04233333333333,47.5789,19.2486,Race circuit,0.0,8.3,71.4,Dry
+Red Bull,112.79566666666669,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+Ferrari,114.32163636363636,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+Mercedes,114.59809090909093,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+Aston Martin,115.307,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+McLaren,117.11219999999999,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+AlphaTauri,116.6845,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+Williams,116.2124,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+Alfa Romeo,116.65719999999999,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+Alpine F1 Team,116.53519999999999,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+Haas F1 Team,117.31890000000001,50.4372,5.97139,Race circuit,0.118,7.8,61.7,Wet
+Red Bull,94.4247,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+McLaren,102.91490000000002,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+Aston Martin,102.07159999999999,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+Mercedes,104.5753,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+Williams,106.34670000000001,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+Ferrari,96.8604,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+Alfa Romeo,100.541,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+Haas F1 Team,101.95689999999999,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+Alpine F1 Team,97.5112,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+AlphaTauri,99.01089999999999,52.3888,4.54092,Street circuit,0.071,17.4,62.4,Wet
+Ferrari,86.48033333333332,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+Red Bull,86.70841666666666,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+Mercedes,87.50254545454546,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+McLaren,87.96669999999999,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+Williams,88.26750000000001,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+Haas F1 Team,89.369,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+Aston Martin,89.28049999999999,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+AlphaTauri,88.78059999999999,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+Alfa Romeo,89.18690000000001,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+Alpine F1 Team,89.4863,45.6156,9.28111,Race circuit,0.0,2.9,73.6,Dry
+Ferrari,101.22383333333333,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+Mercedes,101.85441666666667,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+McLaren,102.71154545454546,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+Aston Martin,102.3695,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+Alpine F1 Team,102.8672727272727,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+Haas F1 Team,102.9705,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+Red Bull,103.14563636363637,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+AlphaTauri,103.4594,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+Williams,104.04780000000001,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+Alfa Romeo,107.14370000000001,1.2914,103.864,Street circuit,0.0,7.8,85.1,Dry
+Red Bull,145.7141,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+McLaren,144.96429999999998,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+Ferrari,145.3093,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+Aston Martin,145.9048,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+Mercedes,145.80079999999998,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+AlphaTauri,146.0253,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+Haas F1 Team,146.49309999999997,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+Alpine F1 Team,146.5863,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+Williams,147.6041,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+Alfa Romeo,149.2195,34.8431,136.541,Race circuit,0.039,5.8,71.2,Wet
+Red Bull,125.98854545454543,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+McLaren,122.84033333333333,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+Aston Martin,126.40090909090912,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+Ferrari,122.82966666666668,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+Alpine F1 Team,123.2281666666667,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+AlphaTauri,127.10781818181817,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+Alfa Romeo,130.5781,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+Haas F1 Team,126.86790909090911,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+Williams,126.80436363636365,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+Mercedes,130.6216,25.49,51.4542,Race circuit,0.0,16.8,92.1,Dry
+McLaren,102.8971,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Ferrari,103.05789999999999,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Mercedes,103.47200000000001,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Red Bull,103.7539,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Alpine F1 Team,106.13910000000001,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Alfa Romeo,105.72820000000002,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+AlphaTauri,105.39370000000001,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Williams,106.0538,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Haas F1 Team,106.43449999999999,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Aston Martin,106.6162,30.1328,-97.6411,Race circuit,0.0,5.1,74.3,Dry
+Red Bull,89.77099999999999,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+Ferrari,87.97341666666667,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+AlphaTauri,89.62299999999999,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+Mercedes,89.60579999999999,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+McLaren,90.5102,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+Haas F1 Team,90.7189,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+Alpine F1 Team,91.29890000000002,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+Alfa Romeo,90.7932,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+Williams,91.2397,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+Aston Martin,91.7834,19.4042,-99.0907,Race circuit,0.0,6.7,65.5,Dry
+Red Bull,345.81616666666673,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+McLaren,377.9973636363636,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+Mercedes,346.10816666666665,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+Aston Martin,346.07316666666674,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+Ferrari,346.42266666666666,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+Alpine F1 Team,346.5734166666667,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+AlphaTauri,378.74618181818187,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+Alfa Romeo,346.94558333333333,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+Williams,347.0898333333333,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+Haas F1 Team,346.8676666666666,-23.7036,-46.6997,Race circuit,0.189,8.5,72.1,Wet
+Red Bull,144.45218181818183,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+Ferrari,144.629,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+Mercedes,143.85,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+Alpine F1 Team,141.49869999999999,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+Williams,141.48649999999998,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+Haas F1 Team,142.31279999999998,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+Aston Martin,145.0772,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+AlphaTauri,143.1917,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+McLaren,137.71557142857142,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+Alfa Romeo,145.14629999999997,36.1147,-115.173,Street circuit,0.0,5.6,61.9,Dry
+Red Bull,91.6018,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+Ferrari,92.12980000000002,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+McLaren,91.49199999999999,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+Mercedes,92.0626,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+AlphaTauri,92.60440000000001,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+Aston Martin,92.37769999999998,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+Alpine F1 Team,92.37780000000001,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+Haas F1 Team,93.8013,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+Alfa Romeo,93.5547,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+Williams,93.97319999999999,24.4672,54.6031,Race circuit,0.0,6.9,78.1,Dry
+Red Bull,97.38099999999999,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+Ferrari,97.93100000000001,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+Mercedes,98.44580000000002,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+Aston Martin,99.93820000000001,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+McLaren,98.81280000000001,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+RB F1 Team,99.84869999999998,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+Williams,99.84079999999999,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+Haas F1 Team,103.5527,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+Sauber,100.38910000000001,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+Alpine F1 Team,100.3997,26.0325,50.5106,Race circuit,0.0,18.8,63.3,Dry
+Red Bull,94.40858333333335,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+Ferrari,96.00336363636362,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+Aston Martin,96.35359999999999,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+McLaren,95.61554545454543,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+Mercedes,96.3411,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+RB F1 Team,97.71739999999998,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+Haas F1 Team,97.75019999999999,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+Williams,98.18050000000001,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+Alpine F1 Team,102.25116666666668,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+Sauber,98.73140000000001,21.6319,39.1044,Street circuit,0.0,9.6,76.5,Dry
+Red Bull,84.82577777777777,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+Ferrari,83.81241666666666,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+McLaren,84.02025000000002,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+Mercedes,85.08736363636365,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+Aston Martin,85.291,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+RB F1 Team,87.6271,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+Sauber,86.47350000000002,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+Haas F1 Team,86.4169,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+Williams,86.2496,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+Alpine F1 Team,86.5928,-37.8497,144.968,Street circuit,0.0,5.1,60.3,Dry
+Red Bull,384.2637500000001,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+McLaren,385.037,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+Ferrari,385.228,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+Aston Martin,412.04727272727274,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+Mercedes,385.89658333333324,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+Haas F1 Team,444.95539999999994,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+Sauber,444.3831,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+RB F1 Team,386.37533333333334,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+Alpine F1 Team,444.4344,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+Williams,445.1360000000001,34.8431,136.541,Race circuit,0.079,2.5,58.5,Wet
+Red Bull,101.267,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+Aston Martin,102.7829,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+McLaren,102.38980000000001,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+Mercedes,103.88660000000002,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+Ferrari,103.03010000000002,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+Haas F1 Team,104.53149999999998,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+Sauber,104.65240000000001,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+Alpine F1 Team,104.333,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+Williams,104.95060000000001,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+RB F1 Team,104.74099999999999,31.3389,121.22,Race circuit,0.039,10.3,66.6,Wet
+Red Bull,93.86330000000001,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+Ferrari,94.0188,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+McLaren,94.2917,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+Mercedes,95.46220000000001,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+Haas F1 Team,96.1584,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+RB F1 Team,96.5927,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+Aston Martin,95.99620000000002,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+Alpine F1 Team,96.17479999999999,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+Williams,96.37239999999998,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+Sauber,96.8126,25.9581,-80.2389,Street circuit,0.0,11.2,81.5,Dry
+Red Bull,82.33760000000001,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+McLaren,81.80630000000001,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+Ferrari,81.8672,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+Mercedes,82.57310000000001,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+Haas F1 Team,83.904,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+RB F1 Team,83.5284,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+Alpine F1 Team,84.2182,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+Aston Martin,84.7159,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+Williams,84.7508,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+Sauber,84.9288,44.3439,11.7167,Race circuit,0.0,5.1,64.0,Dry
+Ferrari,435.19414285714277,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+McLaren,435.3479285714288,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+Mercedes,495.36275000000006,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+Red Bull,495.43216666666666,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+RB F1 Team,495.99000000000007,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+Williams,496.10349999999994,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+Alpine F1 Team,495.89750000000004,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+Aston Martin,496.06850000000003,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+Sauber,496.3633333333335,43.7347,7.42056,Street circuit,0.0,3.8,60.6,Dry
+Mercedes,98.71780000000001,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+Red Bull,100.8917,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+McLaren,99.1166,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+Aston Martin,101.0203,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+RB F1 Team,101.92840000000001,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+Haas F1 Team,99.58590000000001,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+Ferrari,102.56749999999997,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+Williams,103.25049999999999,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+Alpine F1 Team,104.229,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+Sauber,104.95830000000001,45.5,-73.5228,Street circuit,0.209,3.1,63.0,Wet
+Mercedes,81.22959999999999,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+Red Bull,82.04639999999999,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+McLaren,81.77040000000001,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+Ferrari,81.7276,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+Alpine F1 Team,82.30829999999999,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+Haas F1 Team,83.6474,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+Aston Martin,83.67390000000002,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+Sauber,84.15339999999999,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+RB F1 Team,84.3303,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+Williams,84.63980000000001,41.57,2.26111,Race circuit,0.0,5.4,71.1,Dry
+Red Bull,71.0748,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+McLaren,71.4176,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+Mercedes,71.3272,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+Ferrari,75.0589,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+Alpine F1 Team,72.59179999999999,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+Haas F1 Team,72.42549999999997,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+RB F1 Team,73.07070000000002,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+Aston Martin,73.44940000000001,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+Williams,76.65240000000001,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+Sauber,74.12049999999999,47.2197,14.7647,Race circuit,0.0,4.3,73.6,Dry
+Mercedes,92.29666666666668,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+Red Bull,94.13881818181817,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+McLaren,92.93525,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+Ferrari,93.7436,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+Aston Martin,94.2208,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+Haas F1 Team,94.8211,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+RB F1 Team,94.95250000000001,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+Williams,94.87989999999999,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+Sauber,95.79679999999999,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+Alpine F1 Team,95.3806,52.0786,-1.01694,Race circuit,0.531,9.6,55.0,Wet
+McLaren,84.85489999999999,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Red Bull,87.01800000000001,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Mercedes,87.04329999999999,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Ferrari,86.2438,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Aston Martin,87.45180000000002,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Williams,88.1534,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Haas F1 Team,89.29,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+RB F1 Team,87.9961,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Sauber,88.55210000000001,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Alpine F1 Team,88.69760000000001,47.5789,19.2486,Race circuit,0.071,5.4,74.5,Wet
+Ferrari,110.77230000000002,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+Mercedes,110.6019,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+Red Bull,111.06929999999997,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+McLaren,111.0844,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+Aston Martin,112.31880000000001,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+Williams,112.7568,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+Alpine F1 Team,112.21619999999999,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+Sauber,122.26380000000002,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+RB F1 Team,112.99380000000001,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+Haas F1 Team,113.04560000000001,50.4372,5.97139,Race circuit,1.429,4.5,61.0,Wet
+Red Bull,77.4909,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+McLaren,77.4663,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+Mercedes,78.3203,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+Ferrari,78.28399999999999,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+Alpine F1 Team,79.22889999999998,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+Aston Martin,78.68870000000001,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+Haas F1 Team,79.98940000000002,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+RB F1 Team,79.56210000000002,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+Sauber,80.21430000000001,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+Williams,80.2789,52.3888,4.54092,Street circuit,0.327,11.4,65.5,Wet
+McLaren,85.6736,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Ferrari,85.86930000000001,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Mercedes,86.6396,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Red Bull,86.83480000000002,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Williams,88.1533,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Aston Martin,88.30590000000001,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+RB F1 Team,88.74849999999998,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Haas F1 Team,88.79690000000001,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Alpine F1 Team,88.2481,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Sauber,89.4168,45.6156,9.28111,Race circuit,0.0,2.2,80.4,Dry
+Ferrari,109.8021,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+McLaren,111.19069999999999,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+Red Bull,110.25729999999999,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+Mercedes,112.3973,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+Aston Martin,114.8521,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+Williams,111.9485,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+Haas F1 Team,112.79220000000001,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+RB F1 Team,114.3404,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+Alpine F1 Team,114.61860000000001,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+Sauber,115.32810000000002,40.3725,49.8533,Street circuit,0.031,12.5,74.5,Wet
+McLaren,99.5274,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Red Bull,100.13859999999998,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Mercedes,99.79679999999999,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Haas F1 Team,101.1481,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Aston Martin,101.70340000000002,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Ferrari,101.17379999999999,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Williams,101.5021,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+RB F1 Team,101.8096,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Alpine F1 Team,102.05359999999999,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Sauber,103.1116,1.2914,103.864,Street circuit,0.72,3.4,81.7,Wet
+Ferrari,123.85591666666666,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+Red Bull,126.373,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+McLaren,126.3971818181818,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+Alpine F1 Team,129.56019999999998,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+Haas F1 Team,129.3074,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+RB F1 Team,129.4238,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+Aston Martin,129.4767,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+Mercedes,126.29599999999999,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+Sauber,129.7919,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+Williams,129.9551,30.1328,-97.6411,Race circuit,0.0,5.8,72.1,Dry
+Red Bull,129.17481818181818,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+Ferrari,127.23375000000003,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+McLaren,130.17900000000003,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+Mercedes,127.48924999999998,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+Haas F1 Team,127.66791666666667,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+Alpine F1 Team,130.81854545454547,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+RB F1 Team,127.90283333333332,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+Aston Martin,131.4984,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+Williams,132.079,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+Sauber,133.22570000000002,19.4042,-99.0907,Race circuit,0.051,5.4,59.9,Wet
+Mercedes,87.61472727272725,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+McLaren,87.1035,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+RB F1 Team,87.30641666666666,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+Alpine F1 Team,87.88616666666667,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+Ferrari,88.72981818181819,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+Aston Martin,88.43483333333332,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+Red Bull,89.41845454545455,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+Williams,89.88699999999999,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+Haas F1 Team,90.4134,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+Sauber,90.9044,-23.7036,-46.6997,Race circuit,0.346,6.0,71.4,Wet
+Mercedes,100.5008,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+Ferrari,99.9012,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+Alpine F1 Team,101.18730000000001,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+Red Bull,101.7715,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+McLaren,101.07880000000002,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+RB F1 Team,101.73150000000001,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+Haas F1 Team,102.14969999999998,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+Sauber,102.69389999999999,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+Aston Martin,105.12299999999998,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+Williams,103.5038,36.1147,-115.173,Street circuit,0.0,3.4,52.2,Dry
+Red Bull,119.95208333333333,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+McLaren,119.73441666666666,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+Mercedes,120.20675000000001,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+Ferrari,120.29075,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+Aston Martin,128.20319999999998,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+RB F1 Team,124.59181818181818,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+Haas F1 Team,124.35681818181818,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+Alpine F1 Team,127.7482,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+Sauber,127.88310000000001,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+Williams,128.0246,25.49,51.4542,Race circuit,0.0,15.0,68.4,Dry
+McLaren,99.44545454545455,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+Ferrari,96.5819090909091,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+Alpine F1 Team,97.76790909090909,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+Mercedes,97.28663636363635,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+Haas F1 Team,96.89527272727273,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+Aston Martin,97.902,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+RB F1 Team,99.19739999999999,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+Red Bull,98.36319999999999,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+Sauber,99.31460000000001,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
+Williams,105.7387,24.4672,54.6031,Race circuit,0.0,9.4,76.8,Dry
