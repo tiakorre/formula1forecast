@@ -51,9 +51,48 @@ GitHub Actions automatically runs on push/PR:
 2. Runs tests
 3. Verifies predictions
 
-Here's how to complete your **README.md** with the remaining sections:
+ 
+Project Description
+This project aims to predict Formula 1 teams' average lap times by focusing on team performance—averaging the lap times of both drivers per team—to minimize the impact of individual driver skills. Historical F1 data is leveraged to develop a machine learning model that not only predicts team lap times but also sheds light on performance trends over multiple seasons.
 
----
+Project Goals
+Predict and Compare Team Lap Times:
+Use historical race data to predict and compare the 2023/2024 F1 team lap times based on combined driver performance.
+
+Evaluate Team Competitiveness Over Time:
+Analyze trends in average team lap times across seasons to rank team competitiveness and understand how improvements in car performance influence race outcomes.
+
+Identify Influencing Factors:
+Determine key variables that impact lap times, such as track type, weather conditions, and car specifications (including tire data and qualifying performance).
+
+
+Detailed Data Processing
+The data processing workflow is critical for transforming raw API data into a structured format suitable for analysis and modeling. The steps implemented in the notebook include:
+
+Data Acquisition and Parsing:
+
+API Queries: Extract data from the Ergast API, OpenF1, FastF1, and weather/tire sources.
+JSON Parsing: Convert raw JSON responses into structured Python dictionaries/lists for consistent data handling.
+Data Cleaning and Transformation:
+
+Lap Time Conversion: Convert lap times from the “M:SS.mmm” format into total seconds using custom parsing functions. This numerical conversion is essential for aggregation and regression modeling.
+Missing Value Handling: Filter out or impute missing or anomalous values to ensure data quality.
+Data Type Adjustments: Standardize numeric fields (e.g., lap times) and categorical fields (e.g., team names, circuits) for consistency.
+Aggregation and Merging:
+
+Driver-to-Team Mapping: Map individual driver lap times to their respective teams based on race results.
+Multi-Season Aggregation: A dedicated function (e.g., circuit_crashes_data) loops through seasons (2018–2025) to consolidate data into a single pandas DataFrame. Each row represents a team’s performance in a specific race.
+Feature Merging: Integrate supplementary features like circuit details, race dates, and weather data to enrich the dataset.
+Final Data Structuring:
+
+The cleaned and merged data is organized so that each record encapsulates team performance (average lap time) along with contextual features. This structured dataset is then primed for exploratory data analysis (EDA) and model training.
+Detailed Data Modeling Methods
+The modeling phase is designed to predict average team lap times through a systematic regression approach. The following details summarize the modeling workflow as implemented in the notebook:
+
+RMSE (Root Mean Squared Error):
+Critical for measuring the average error in predictions—vital given the sensitivity of lap time differences.
+R² Score:
+Evaluates the proportion of variance explained by the model.
 
 ## Visualizations of Data
 
@@ -61,7 +100,6 @@ This project includes static visualizations to help analyze team performance, la
 
 - **Line plots** showing average lap time trends for each team across seasons.
 - **Scatter plots** visualizing relationships between features like qualifying position, weather conditions, and lap times.
-- **Residual plots** to assess model error patterns.
 - **Feature importance bar chart** from XGBoost to show which variables (e.g., team, precipitation, circuit type) most affect lap time predictions.
 
 Visualizations were generated using `matplotlib` and `plotly`, with the potential for future upgrades using dashboards like `Dash` or `Streamlit` for full interactivity.
