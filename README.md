@@ -1,4 +1,4 @@
-# formula1forecast
+# formula1forecast Basic description and Plan
 
 # Project Description
 This project aims to predict Formula 1 teams average lap times based on team performance rather than individual drivers. The goal is to analyze how car quality affects race outcomes by averaging the lap times of both drivers per team, filtering out driver skill differences. By leveraging historical F1 data, the project will develop a machine learning model to predict team lap times and analyze performance trends across seasons.
